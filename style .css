@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('/storage/emulated/0/Pictures/Wallpapers/f6e4470f-32e9-4d30-a1ea-33710df2200d.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    border: 0;
+    background-color: transparent;
+    height: 60%;
+    display: grid;
+    margin-top: 9rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    border-radius: 30px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.20);
+    background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
+    
+}
+
+.heading {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.put {
+    align-content: center;
+    border-radius: 40px;
+    height: 50px;
+    background-color: lightblue;
+    border: 0;
+}
+
+.team {
+    height: -2px;
+    margin: 2px 20px;
+    margin-top: 30px;
+}
+
+.for {
+    margin: 10px 20px;
+}
+
+.button {
+    border-radius: 40rem;
+    width: 50%;
+    height: 50px;
+    margin: 20px 70px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.20);
+}
+
+.button:hover {
+    background-color: lightblue;
+}
+
+.footer {
+    text-align: center;
+    margin: 80px 50px;
+}
+
+.D {
+    margin: 20px 60px;
+}
+
+input {
+    caret-color: green;
+}
